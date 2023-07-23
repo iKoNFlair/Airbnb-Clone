@@ -4,9 +4,12 @@
 
 ## Tech Stack
 
-Next.js<br/> React<br/> Tailwind CSS<br/>
-Node.js<br/> Express.js<br/>
-MongoDB<br/>
+<li>Next.js</li> 
+<li>React</li> 
+<li>Tailwind CSS</li> 
+<li>Node.js</li> 
+<li>Express.js</li> 
+<li>MongoDB</li> 
 
 ## Get started
 
