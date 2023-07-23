@@ -4,28 +4,32 @@
 
 ## Tech Stack
 
-<li>Next.js</li> 
-<li>React</li> 
-<li>Tailwind CSS</li> 
-<li>Node.js</li> 
-<li>Express.js</li> 
-<li>MongoDB</li> 
+Next.js<br> 
+React<br> 
+Tailwind CSS<br> 
+Node.js<br> 
+Express.js<br> 
+MongoDB 
+
+## Features
+<li>Engaging homepage showcasing popular listings and interactive map for property exploration.</li>
+<li>User authentication and profiles for hosts and guests with secure login and registration functionality.</li>
+<li>Comprehensive property listings with details, amenities, photos, and availability calendar.</li>
+<li>Responsive design ensuring optimal user experience across various devices.</li>
+<li>Scalable deployment on reliable hosting infrastructure.</li>
 
 ## Get started
 
-### Install packages
-npm install
+<li>Run "npm install"</li>
 
-### Configure .env file
-DATABASE_URL=<br/>
-GOOGLE_CLIENT_ID=<br/>
-GOOGLE_CLIENT_SECRET=<br/>
-GITHUB_ID=<br/>
-GITHUB_SECRET=<br/>
-NEXTAUTH_SECRET=
+<li>Configure .env file
+(DATABASE_URL,
+GOOGLE_CLIENT_ID,
+GOOGLE_CLIENT_SECRET,
+GITHUB_ID,
+GITHUB_SECRET,
+NEXTAUTH_SECRET)
 
-### Setup Prisma
-npx prisma db push
+<li>Run "npx prisma db push"</li>
 
-### Start the app
-npm run dev
+<li>npm run dev</li>
