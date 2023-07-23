@@ -1,19 +1,19 @@
-# Full Stack Airbnb Clone
+# Airbnb Clone
 
 ### Developed a feature-rich Airbnb Clone, a full-stack web application that emulates the core functionalities of the popular Airbnb platform. 
 
-## Tech Stack:
+## Tech Stack
 
-Front-end: Next.js, React, Tailwind CSS<br/>
-Back-end: Node.js, Express.js<br/>
-Database: MongoDB<br/>
+Next.js<br/> React<br/> Tailwind CSS<br/>
+Node.js<br/> Express.js<br/>
+MongoDB<br/>
 
 ## Get started
 
 ### Install packages
-npm i
+npm install
 
-### Setup .env file
+### Configure .env file
 DATABASE_URL=<br/>
 GOOGLE_CLIENT_ID=<br/>
 GOOGLE_CLIENT_SECRET=<br/>
